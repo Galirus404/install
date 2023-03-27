@@ -36,6 +36,7 @@ elif [ "$isi" = "n" ]
 then
 echo "Dhaaaa COOK"
 sleep 3
+exit
 else
 echo $q $k "INPUT salah Anjeng"
 fi
